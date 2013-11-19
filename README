@@ -1,0 +1,12 @@
+This is a starter kit for a simple web application.
+
+It wires up a bunch of nice pieces:
+
+  Jade templates for the static web page
+  Stylus css
+  ThirdParty JS getting copied into build js
+
+  Web Server and Watcher for development through `grunt dev`
+
+Notes:
+  make sure to upgrade all the grunt packages, and also require.js in the thirdparty dir
